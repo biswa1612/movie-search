@@ -1,6 +1,6 @@
 ### Movie-search
 In the search box type any word, it will show you 10 films which have that word in their name or you can type the name directly.
-Clone the repository into your personal computer with:
+- Clone the repository into your personal computer with:
  
 ```
 git clone 
@@ -30,3 +30,4 @@ For Linux,
 ```
  http://127.0.0.1:3000
 ```
+>You're good to go
