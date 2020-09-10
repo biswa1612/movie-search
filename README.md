@@ -1,5 +1,5 @@
 ### Movie-search
-In the search box type any word, it will show you 10 films which have that word in their name or you can type the name directly.
+In the search box type any word, it will show you 10 films which have that word in their name or you can type the name directly.You will get the details of all the 10 films.
 - Clone the repository into your personal computer with:
  
 ```
